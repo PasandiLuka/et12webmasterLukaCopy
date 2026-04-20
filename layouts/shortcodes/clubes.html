@@ -1,0 +1,9 @@
+{{range $.Site.Data.clubes}}
+<div>
+    <h5>{{.nombre}}</h5>
+    <h6>Horario: {{.horario}}</h6>
+    <h6>Ubicacion: {{.ubicacion}}</h6>
+    <p>Descripción: {{.descripcion}}</p>
+    <hr>
+</div>
+{{end}}
