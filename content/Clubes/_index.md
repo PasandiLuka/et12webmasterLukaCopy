@@ -54,3 +54,7 @@ El protagonismo como premisa en el Club Juvenil permite un vinculo entre los dir
     </td>
   </tr>
 </table>
+
+### Clubes por turno:
+
+{{% children type="card" description=true sort="title" %}}

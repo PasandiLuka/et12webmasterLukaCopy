@@ -11,10 +11,5 @@ preview = "img/Banner Deportes.png"
 
 ![Banner Deportes](img/Banner%20Deportes.png?width=98vw&lightbox=false)
 
-El voleibol es uno de los deportes más populares en nuestro colegio, y nuestro equipo ha dejado huella en numerosas competiciones a lo largo de los años. Estamos orgullosos de contar con un grupo de talentosos y apasionados jugadores y entrenadores que se esfuerzan por representar a nuestra institución de la mejor manera posible.
 
-Nuestro equipo de voleibol está formado por jugadores dedicados que trabajan arduamente para mejorar sus habilidades y mejorar día a día. Nuestro constante deseo de superación, disciplina e interés por el deporte nos ha permitido cosechar varios éxitos en diversas competencias locales y regionales. 
-
-Si te interesa formar parte de nuestro equipo de voleibol, no dudes en acercarte a nuestros entrenadores. ¡Siempre estamos en busca de nuevos talentos dispuestos a unirse a nuestra familia deportiva! Aquí encontrarás una oportunidad de desarrollar tus habilidades, disfrutar del juego y conocer nuevas personas.
-
-No importa si eres principiante o ya tienes experiencia en voleibol, nuestro equipo te brindará el apoyo y la orientación necesarios para crecer como jugador. Además, contarás con instalaciones deportivas y entrenamientos diseñados para potenciar tu rendimiento.
+{{% children type="card" description=true sort="title" %}}
