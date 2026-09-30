@@ -20,6 +20,15 @@ En la escuela se dispone de un sistema de preventa, en el que se brinda la oport
 
 - [**Formulario para Preventa**](https://docs.google.com/forms/d/e/1FAIpQLSdoqbb3JcpX3iWgkutQM7icPBw8fgoxRx5l_r9gxsXqrizkzQ/viewform)
 
+Para quienes por cuestiones operativas, no puedan realizar el registro del pago por el formulario, pueden enviar un mail a la cuenta de correo:
+- **cooperadora.tecnica12de1@bue.edu.ar**
+
+**Por favor**, incluir en el mail:
+- Comprobante de pago
+- Datos del alumno
+- Adulto responsable
+- Material adquirido.
+
 ---
 
 {{% notice style="info" icon="fa-solid fa-handshake" style="red" title="Información de Pago"%}}
